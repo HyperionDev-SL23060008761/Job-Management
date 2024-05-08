@@ -1,6 +1,6 @@
-# Git Compass
+# Job Management
 
-#### Git Compass is a Website made to search for and view Publicly Available Details about a github user
+#### A website used to keep track and log Jobs to do in regards with maintenance
 
 ## Requirements
 
@@ -49,7 +49,7 @@ Start the Project
 
 ### Viewing the site:
 
-Visit http://localhost:4005/ in your browser
+Visit http://localhost:4000/ in your browser
 
 ## Support
 
